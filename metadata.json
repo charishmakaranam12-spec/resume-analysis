@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analysier - n8n Workflow Portal",
+  "description": "Interactive web portal and instant ATS analyzer connected to the n8n automated resume analysis cloud workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
